@@ -22,8 +22,10 @@ git clone https://github.com/jckim1201/25_youth_winter
 
 ## 카메라 확인
 ```
-ls /dev/video0
+ls /dev/video*
 ```
+- 위 확인이 되는 video 장비를 이용해서 활용 해야 함. 장비 별 설정에 따라 수정해야 함. 현재 파일들은 video0를 기준으로 작성되어 있으며, 그 외의 장비인 경우, --device 연결 시 해당 장비에 맞는 번호로 작성해 주고, 노트북 파일 내의 device 번호도 수정해 주어야 함.
+- usb 카메라의 지원 fps 가 낮은 경우에도 연결이 안될 경우가 있으며, 이 경우 노트북의 카메라 연결 부분의 capture_fps 값을 낮게 설정해야 함.
 
 ## 도커파일 다운 및 실행
 ```
