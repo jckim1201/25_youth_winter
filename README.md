@@ -49,3 +49,4 @@ cp 25_youth_winter/docker_run.sh ./
 1. [Jetson AI Fundamentals](https://youtu.be/rSqIvLQ8Meg?si=45sTk7O73CtzZnAX)
 2. [Nvidia AI Lab](https://www.jetson-ai-lab.com)
 3. [Jetson Community Projects](https://developer.nvidia.com/embedded/community/jetson-projects)
+4. [Neural Network Visualization](https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown)
