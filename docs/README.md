@@ -1,4 +1,4 @@
-<img src="./images/kisti_logo.jpg" width="100"> <img src="./images/unist_logo.jpg" width="100"> <img src="./images/kisti_mas.png" width="90"> <img src="./images/unist_mas.jpg" width="70">
+<img src="../images/kisti_logo.jpg" width="100"> <img src="../images/unist_logo.jpg" width="100"> <img src="../images/kisti_mas.png" width="90"> <img src="../images/unist_mas.jpg" width="70">
 
 # **2025년 겨울방학 AI 팀프로젝트 슈퍼컴퓨팅 청소년 캠프**
 
